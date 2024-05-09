@@ -2,7 +2,6 @@
 APP_NAME: account-management
 DEV_ENV_DIR: account-management-dev-env
 DC_PROJECT_NAME: account-management-ci
-# RETENTION_DAYS: 90
 DEV_ENV_TAG: latest
 APP_ID: a8965612-527e-45b4-8ee9-616109cb79e5
 APP_ID_FIPS: 5e79e831-be1e-4ff5-891a-dffe1fce6f74
